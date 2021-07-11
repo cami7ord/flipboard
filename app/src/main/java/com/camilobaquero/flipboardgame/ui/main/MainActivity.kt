@@ -1,9 +1,11 @@
-package com.camilobaquero.flipboardgame
+package com.camilobaquero.flipboardgame.ui.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.camilobaquero.flipboardgame.ui.main.MainFragment
+import com.camilobaquero.flipboardgame.R
+import dagger.hilt.android.AndroidEntryPoint
 
+@AndroidEntryPoint
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {

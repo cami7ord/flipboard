@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Flip Board Game</string>
+    <string name="max_area_label">Biggest Rectangle: %1$d</string>
+    <string name="reset_button">Reset</string>
 </resources>
